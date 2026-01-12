@@ -1,0 +1,5 @@
+covasim>=3.1
+pandas>=1.5
+numpy>=1.22
+statsmodels>=0.13
+matplotlib>=3.5
