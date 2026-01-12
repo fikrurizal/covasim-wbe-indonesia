@@ -6,6 +6,5 @@ simulations used in [paper / project name].
 ## How to run
 
 ```bash
-pip inst
-all -r requirements.txt
+pip install -r requirements.txt
 python run_covasim_diy.py
