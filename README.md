@@ -1,7 +1,6 @@
-# Covasim simulation – WBE Indonesia (DIY, 2021)
+# Covasim simulation for Wastewater Surveillance Cost-effectiveness Analysis in Indonesia
 
-This repository contains a simple Python script reproducing the Covasim
-simulations used in our paper.
+This repository contains a simple Python script reproducing the Covasim simulations used in our paper.
 
 ## How to run
 
